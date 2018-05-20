@@ -25,7 +25,7 @@ message
 
 2. Create some endpoints where it will provide CRUD (create, retrieve, update, delete)
 operation for users table.
-a. http://localhost/users - create a single user
+a. http://localhost/users - create a single user <br/>
 b. http://localhost/users - retrieve all users
 c. http://localhost/users/1 - retrieve a single user based on user id
 d. http://localhost/users/1 - delete a single user based on user id
