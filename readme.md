@@ -49,9 +49,10 @@ f. http://localhost/users/1/posts - retrieve all the posts based on the user id<
 	k. http://localhost/comments/1 - update a single comment based on comment id<br/>
 
 ## Note: You can use any PHP framework you like but use MySQL for the database.
+<hr>
 
-Route List:
-
+## Route List:
+<pre>
 +--------+-----------+-----------------------------+------------------+-------------------------------------------------+--------------+
 | Domain | Method    | URI                         | Name             | Action                                          | Middleware   |
 +--------+-----------+-----------------------------+------------------+-------------------------------------------------+--------------+
@@ -81,4 +82,4 @@ Route List:
 |        | DELETE    | api/users/{user}            | users.destroy    | App\Http\Controllers\UsersController@destroy    | api          |
 |        | GET|HEAD  | api/users/{user}/edit       | users.edit       | App\Http\Controllers\UsersController@edit       | api          |
 +--------+-----------+-----------------------------+------------------+-------------------------------------------------+--------------+
-
+</pre>
