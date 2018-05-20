@@ -1,4 +1,4 @@
-##Blog API Case Study
+## Blog API Case Study
 
 This is a case study where we need to build a REST API for a blog web application. We
 need to implement an endpoint where it will provide/update us a set of data based on
