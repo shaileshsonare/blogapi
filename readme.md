@@ -6,7 +6,7 @@ the endpoint that we call.<br/>
 1. Create a database name api_db that will contain the following tables below.<br/>
 a. users<br/>
 columns:<br/>
-** user_id **<br/>
+**user_id**<br/>
 # firstname<br/>
 # lastname<br/>
 
