@@ -35,12 +35,11 @@ f. http://localhost/users/1/posts - retrieve all the posts based on the user id<
     a. http://localhost/posts - create a single post<br/>
     b. http://localhost/posts - retrieve all posts<br/>
     c. http://localhost/posts/1 - retrieve a single post based on post id<br/>
-
     d. http://localhost/posts/1 - delete a single post based on post id<br/>
     e. http://localhost/posts/1 - update a single post based on post id<br/>
-    f. http://localhost/posts/1/comments - retrieve all the comments based on the post 
-    id
+    f. http://localhost/posts/1/comments - retrieve all the comments based on the post id
     <br/>
+    
   4. Create some endpoints where it will provide CRUD (create, retrieve, update, delete) operation for comments table.<br/>
     g. http://localhost/comments - create a single comment<br/>
     h. http://localhost/comments - retrieve all comments<br/>
