@@ -7,22 +7,22 @@ the endpoint that we call.<br/>
 a. users<br/>
 columns:<br/>
 **user_id**<br/>
-# firstname<br/>
-# lastname<br/>
+**firstname**<br/>
+**lastname**<br/>
 
 b. posts<br/>
 columns:<br/>
-# post_id<br/>
-# post_user_id – foreign key to users table<br/>
-# title<br/>
-# body<br/>
+**post_id**<br/>
+**post_user_id – foreign key to users table**<br/>
+**title**<br/>
+**body**<br/>
 
 c. comments<br/>
 columns:<br/>
-# comment_id<br/>
-# comment_post_id – foreign key to posts table<br/>
-# comment_user_id – foreign key to users table<br/>
-# message<br/>
+**comment_id**<br/>
+**comment_post_id – foreign key to posts table**<br/>
+**comment_user_id – foreign key to users table**<br/>
+**message**<br/>
 
 2. Create some endpoints where it will provide CRUD (create, retrieve, update, delete)
 operation for users table. <br/>
