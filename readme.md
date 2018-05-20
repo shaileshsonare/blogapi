@@ -52,6 +52,7 @@ f. http://localhost/users/1/posts - retrieve all the posts based on the user id<
 <hr>
 
 ## Route List:
+## Domain: http://localhost:1234/api/{}
 <pre>
 +--------+-----------+-----------------------------+------------------+-------------------------------------------------+--------------+
 | Domain | Method    | URI                         | Name             | Action                                          | Middleware   |
