@@ -1,5 +1,8 @@
 # Blog API Case Study
 ## All REST API available at http://13.59.157.144/blogapi/public/api/{{module}}
+### http://13.59.157.144/blogapi/public/api/users
+### http://13.59.157.144/blogapi/public/api/posts
+### http://13.59.157.144/blogapi/public/api/comments
 
 This is a case study where we need to build a REST API for a blog web application. We need to implement an endpoint where it will provide/update us a set of data based on the endpoint that we call.<br/>
 
