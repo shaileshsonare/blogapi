@@ -1,4 +1,5 @@
 # Blog API Case Study
+## All REST API available at http://13.59.157.144/blogapi/public/api/
 
 This is a case study where we need to build a REST API for a blog web application. We need to implement an endpoint where it will provide/update us a set of data based on the endpoint that we call.<br/>
 
@@ -52,7 +53,7 @@ f. http://localhost/users/1/posts - retrieve all the posts based on the user id<
 <hr>
 
 ## Route List:
-## Domain: http://localhost:8000/api/{}
+## Domain: http://13.59.157.144/blogapi/public/api/
 <pre>
 +--------+-----------+-----------------------------+------------------+-------------------------------------------------+--------------+
 | Domain | Method    | URI                         | Name             | Action                                          | Middleware   |
