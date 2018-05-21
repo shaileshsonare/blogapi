@@ -1,5 +1,5 @@
 # Blog API Case Study
-## All REST API available at http://13.59.157.144/blogapi/public/api/{{module}}
+## All REST API available at:
 ### http://13.59.157.144/blogapi/public/api/users
 ### http://13.59.157.144/blogapi/public/api/posts
 ### http://13.59.157.144/blogapi/public/api/comments
